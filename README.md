@@ -42,6 +42,4 @@ The strategy explicitly accounted for the evolving cooperation streak to maximiz
 
 ## Lessons Learned
 
-Our innovative approach proved to be highly effective, leading to a 2nd-place finish at the IEEE Event during APOGEE 2024. The project demonstrated how strategic adjustments to classic game theory models can yield robust results in dynamic, noisy environments.
-\
-Feel free to explore the code and see how we implemented these strategies! Contributions and feedback are always welcome.
+This innovative approach proved to be highly effective, leading to a 2nd-place finish at the IEEE Event during APOGEE 2024. The project demonstrated how strategic adjustments to classic game theory models can yield robust results in dynamic, noisy environments.
